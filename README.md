@@ -1,2 +1,5 @@
-# Genetic_Algorithm_Example
-Basic Version of a Genetic Algorithm that is used to train a circle to make it around obstacles to the finish line
+# Various_Car_Training_Models
+Some Various Version of Training a "Car" to not crash on a course.
+These Various Models include:
+  1. Genetic Algorithm
+  2. Neural Network
